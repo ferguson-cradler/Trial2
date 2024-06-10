@@ -7,3 +7,6 @@ Change here, now in R studio at same time as changes in GitHub.
 
 Changing stuff here too!
 
+Now some changes in vscode.
+
+Touch again and mess with things.
